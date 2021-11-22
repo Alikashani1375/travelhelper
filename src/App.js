@@ -25,7 +25,10 @@ function App() {
         ) : (
           <div
             className="flex flex-col text-center h-screen"
-            style={{ backgroundImage: "url(/images/bg1.jpg)" }}
+            style={{
+              backgroundImage:
+                "url('https://wallpaperaccess.com/download/simple-nature-1129092')",
+            }}
           >
             <p className="font-serif text-6xl text-center mt-8">
               Wellcome to The Trip

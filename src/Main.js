@@ -16,7 +16,8 @@ function Main() {
     <div
       className="flex flex-col w-full min-h-full fixed bg-cover bg-no-repeat"
       style={{
-        backgroundImage: "url(/images/bg1.jpg)",
+        backgroundImage:
+          "url('https://wallpaperaccess.com/download/simple-nature-1129092')",
       }}
     >
       <div className="mx-auto text-center text-3xl font-serif text-3xl pt-8">
